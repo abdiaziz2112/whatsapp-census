@@ -33,6 +33,7 @@ In this updated version of the paper, we also provide insights into the collabor
   publisher    = {The Internet Society},
   year         = {2026},
   url          = {https://github.com/sbaresearch/whatsapp-census},
+  doi          = {https://dx.doi.org/10.14722/ndss.2026.230805},
   timestamp    = {2025-11-18T15:00:00+01:00},
 }
 ```
